@@ -1,0 +1,1 @@
+{"epochs": 100, "verbose": 1, "optimizer": "adam", "loss": "sparse_categorical_crossentropy", "metrics": ["accuracy"], "Test loss": 0.28334230184555054, "Test accuracy": 0.8690193295478821}
